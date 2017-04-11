@@ -2,6 +2,8 @@
 
 >Site criado junto com o [curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) de **HTML5** do canal [curso em video](https://www.youtube.com/user/cursosemvideo)
 
+> Confira o estado atual do [site](https://vitebo.github.io/projeto-glass-html5/)
+
 ## Repositório
 
 >Este repositório tem foco para:
