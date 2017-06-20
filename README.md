@@ -1,31 +1,8 @@
 # Projeto Google Glass - HTML5
 
->Site criado junto com o [curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) de **HTML5** do canal [curso em video](https://www.youtube.com/user/cursosemvideo)
+Site criado junto com o [curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) de **HTML5** do canal [curso em video](https://www.youtube.com/user/cursosemvideo)
 
-> Confira o estado atual do [site](https://vitebo.github.io/projeto-glass-html5/)
-
-## Repositório
-
->Este repositório tem foco para:
-* Pessoas que concluiram o curso de **HTML5** e gostariam de melhorar o site.
-* Pessoas que pretende conhecer um pouco mais sobre **GIT** e **GITHUB**.
-
-## Desafio
-
->O desafio é melhorarmos o site criado no curso 
->implementando novas páginas e funcionalidades.
-
->Podemos utilizar outros conhecimentos adquiridos tamebém nos cursos de [MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r), [PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) e [PHP orientado a objetos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x).
-
->Dessa forma podemos ter um site em **PHP** com o banco de dados **MySQL**. 
-
-## Como ajudar?
-
->Existem inumeras formas de você ajudar o projeto.
->Você pode:
-* Abrir uma nova [ISSUE](https://github.com/vitebo/projeto-glass-html5/issues) reportando alguma falha ou sugerindo uma nova funcionalidade para o site.
-* Contribuir com código para o projeto sobre alguma [ISSUE](https://github.com/vitebo/projeto-glass-html5/issues) pendendte. Saiba como [clicando aqui](https://github.com/vitebo/projeto-glass-html5/blob/master/CONTRIBUTING.md).
-* Fazer a correção de textos em qualquer parte do projeto.
+Confira o estado atual do [site](https://vitebo.github.io/projeto-glass-html5/)
 
 ## Aulas do curso
 
